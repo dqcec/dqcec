@@ -4,7 +4,6 @@
 p{
 color:red;
   font-size:20px;
-  border:10px solid blue;
 }
 
 p:hover{
@@ -13,5 +12,7 @@ color:blue;
 img{
 width:20%;
 }
-
+h2{
+border:10px solid blue;
+}
 
