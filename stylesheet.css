@@ -1,11 +1,11 @@
 .title{
   color: #02ccba;
-   background-color:red;
+  
 }
 p{
 color:red;
   font-size:20px;
-  
+  background-color:blue;
 }
 
 p:hover{
