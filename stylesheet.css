@@ -4,6 +4,7 @@
 p{
 color:red;
   font-size:20px;
+  text-aglin:center;
 }
 
 p:hover{
@@ -12,7 +13,5 @@ color:blue;
 img{
 width:20%;
 }
-*{
-text-aglin:center;
-}
+
 
