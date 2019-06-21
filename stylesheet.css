@@ -1,13 +1,15 @@
-.title h1{
+.title{
   color: #02ccba;
-  font-size:30px;
 }
 p{
 color:red;
+  font-size:30px;
+  
 }
+
 p:hover{
 color:blue;
 }
 img{
-width:50%;
+width:20%;
 }
