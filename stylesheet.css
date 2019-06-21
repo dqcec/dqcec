@@ -1,5 +1,6 @@
 .title{
   color: #02ccba;
+   background-color:red;
 }
 p{
 color:red;
@@ -12,5 +13,5 @@ color:blue;
 }
 img{
 width:20%;
-  background-color:red;
+  
 }
