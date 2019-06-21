@@ -1,11 +1,9 @@
 .title{
   color: #02ccba;
-  
 }
 p{
 color:red;
   font-size:20px;
-  
 }
 
 p:hover{
@@ -13,5 +11,7 @@ color:blue;
 }
 img{
 width:20%;
-  
+}
+li{
+float:left;
 }
