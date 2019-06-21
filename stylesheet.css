@@ -21,3 +21,14 @@ background-image:url("http://www.desktopwallpaperhd.net/wallpapers/1/b/windows-1
   height:100%;
   width:70%;
 }
+.btn{
+color:white;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+.btn:active{
+  box-shadow:none;
+  position:relative;
+  top:7px;
+}
