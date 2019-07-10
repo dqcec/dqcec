@@ -20,6 +20,7 @@ border:10px solid blue;
 background-image:url("https://www.pakutaso.com/shared/img/thumb/ELT140405465316_TP_V.jpg");
   height:100%;
   width:70%;
+  margin:0 auto;
 }
 .btn{
 color:white;
