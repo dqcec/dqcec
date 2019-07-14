@@ -30,7 +30,6 @@ color:white;
   box-shadow: 0 7px #1a7940;
   padding:10px 30px 10px 30px; 
   margin-bottom:30px;
-  display:inline-block;
 }
 .btn:active{
   box-shadow:none;
