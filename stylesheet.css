@@ -21,9 +21,7 @@ background-image:url("https://www.pakutaso.com/shared/img/thumb/ELT140405465316_
   height:100%;
   width:70%;
   margin:0 auto;
-}
-.con{
-margin:0 auto;
+  display:inline-block;
 }
 .btn{
 color:white;
