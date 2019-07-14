@@ -28,6 +28,7 @@ color:white;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
   padding:10px 30px; 
+  margin:20px 20px;
 }
 .btn:active{
   box-shadow:none;
