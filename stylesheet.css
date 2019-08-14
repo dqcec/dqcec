@@ -37,3 +37,7 @@ color:white;
   position:relative;
   top:7px;
 }
+.login-modal-wrapper{
+  display:none;
+}
+  
