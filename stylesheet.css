@@ -39,7 +39,6 @@ color:white;
 }
 .login-modal-wrapper{
   display:none;
-  position: fixed;
   top: 100px;
   right: 0;
   bottom: 0;
