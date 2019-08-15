@@ -39,7 +39,6 @@ color:white;
 }
 .login-modal-wrapper{
   display:none;
-  cursor:pointer;
   position: fixed;
   top: 0;
   right: 0;
@@ -48,4 +47,9 @@ color:white;
   background-color: rgba(0, 0, 0, 0.6);
   z-index: 100;
 }
+.close-modal{
+  cursor:pointer;
+}
+  
+  
   
