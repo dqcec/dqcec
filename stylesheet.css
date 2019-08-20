@@ -46,13 +46,13 @@ color:white;
   cursor:pointer;
 }
   
-#signup-form h3, #login-form h3 {
+#login-form h3 {
   color: #5f5d60;
   letter-spacing: 1px;
   margin-bottom: 40px;
 }
 
-#signup-form input, #login-form input {
+#login-form input {
   width: 320px;
   margin-bottom: 20px;
   font-size: 12px;
