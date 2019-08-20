@@ -60,6 +60,8 @@ color:white;
   border: 1px solid #d0d5d8;
   border-radius: 5px;
 }
-
+#login-form {
+  width: 100%;
+}
   
   
