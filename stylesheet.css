@@ -60,19 +60,5 @@ color:white;
   border: 1px solid #d0d5d8;
   border-radius: 5px;
 }
-#login-form {
-  width: 100%;
-}
-.modal {
-  position: absolute;
-  top: 20%;
-  left: 34%;
-  background-color: red;
-  padding: 20px 0 40px;
-  border-radius: 10px;
-  width: 450px;
-  height: auto;
-  text-align: center;
-}
 
 
