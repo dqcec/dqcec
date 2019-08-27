@@ -1,8 +1,5 @@
 $(function(){
-  $(".modalbtn1").click(function(){
-    $(".login-modal-wrapper").fadeIn();
-  });
-   $(".modalbtn2").click(function(){
+   $(".modalbtn").click(function(){
     $(".login-modal-wrapper").fadeIn();
   });
   $('.close-modal').click(function(){
