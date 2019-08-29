@@ -6,6 +6,8 @@ $(function(){
   $('.login-modal-wrapper').fadeOut();
   });
   $('.textChange').click(function(){
-$('.changeText').text('クリックされました');
+     var n=0;
+     n=n+1;
+$('.changeText').text(n+'回クリックされました');
   });
 });
