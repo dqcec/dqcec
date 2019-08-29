@@ -5,5 +5,7 @@ $(function(){
   $('.close-modal').click(function(){
   $('.login-modal-wrapper').fadeOut();
   });
-  $('h1').text('hello');
+  $('textChange').click(function(){
+$('changeText').text('クリックされました');
+  });
 });
