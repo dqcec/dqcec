@@ -5,8 +5,8 @@ $(function(){
   $('.close-modal').click(function(){
   $('.login-modal-wrapper').fadeOut();
   });
+   var n=0;
   $('.textChange').click(function(){
-     var n=0;
      n=n+1;
 $('.changeText').text(n+'回クリックされました');
   });
