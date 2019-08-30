@@ -61,9 +61,12 @@ color:white;
   border-radius: 5px;
 }
 
-header h1,header h2,header h3{
+header h1,header h2{
 float:left;
 }
+header h3{
+float:right;
+}
 header{
-height:300px;
+height:200px;
 }
