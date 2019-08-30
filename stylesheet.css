@@ -61,9 +61,9 @@ color:white;
   border-radius: 5px;
 }
 
-footer h1,footer h2,footer h3{
+header h1,header h2,header h3{
 float:left;
 }
-footer{
+header{
 height:300px;
 }
