@@ -62,6 +62,9 @@ color:white;
 }
 
 header ul{
+float:right;
+}
+header h2{
 float:left;
 }
 header{
