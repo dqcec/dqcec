@@ -6,7 +6,9 @@ $(function(){
   $('.login-modal-wrapper').fadeOut();
   });
    $('#topPage').click(function(){
-$('html,body').scrollTop(0);
+$('html,body').animate(
+   {'scrollTop':0},
+   500);
    });
    var n=0;
   $('.textChange').click(function(){
