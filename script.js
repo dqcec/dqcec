@@ -5,6 +5,9 @@ $(function(){
   $('.close-modal').click(function(){
   $('.login-modal-wrapper').fadeOut();
   });
+   $('#topPage').click(function(){
+$('html,body').scrollTop(0);
+   });
    var n=0;
   $('.textChange').click(function(){
      n=n+1;
