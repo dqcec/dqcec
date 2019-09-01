@@ -7,7 +7,7 @@ $(function(){
   });
    $('#topPage').click(function(){
 $('html,body').animate(
-   {'scrollTop':200px},
+   {'scrollTop':200},
    500);
    });
    var n=0;
