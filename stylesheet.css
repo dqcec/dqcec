@@ -66,17 +66,16 @@ float:right;
 header h2{
 float:left;
 }
-@media(max-width:700px){
- header{
-  color:red;
-  }
-}else{
-  header{
+header{
 height:200px;
 background-color:#26d0c9;
 color:white;    
 }
+@media(max-width:700px){
+ header{
+  background-color:blue;
   }
+}
 
   
   
