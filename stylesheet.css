@@ -18,7 +18,7 @@ border:10px solid blue;
 }
 .zentai{
 background-image:url("https://www.pakutaso.com/shared/img/thumb/ELT140405465316_TP_V.jpg");
-  height:4000px;
+  height:3000px;
   width:70%;
   margin:0 auto;
   background-size:cover;
@@ -69,6 +69,7 @@ float:left;
 }
 header{
 height:200px;
+width:900px;
 background-color:#26d0c9;
 color:white;    
 }
