@@ -30,8 +30,7 @@ color:white;
   box-shadow: 0 7px #1a7940;
   padding:10px 30px 10px 30px; 
   margin-bottom:30px;
-  display:inline-block;
-}
+  display:inline-block;}
 .btn:active{
   box-shadow:none;
   position:relative;
@@ -67,16 +66,18 @@ float:right;
 header h2{
 float:left;
 }
-header{
+@media(max-width:700px){
+ header{
+  color:red;
+  }
+}else{
+  header{
 height:200px;
 background-color:#26d0c9;
 color:white;    
 }
-@media(max-width:7000px){
- header{
-  color:red;
   }
-}
+
   
   
   
