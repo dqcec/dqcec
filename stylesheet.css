@@ -32,7 +32,7 @@ color:white;
   margin-bottom:30px;
   display:inline-block;
 }
-.btn,.blogbtn:active{
+.btn:active{
   box-shadow:none;
   position:relative;
   top:7px;
@@ -45,6 +45,11 @@ color:white;
   padding:5px 20px 5px 20px; 
   margin-bottom:30px;
   display:inline-block;
+}
+.blogbtn:active{
+  box-shadow:none;
+  position:relative;
+  top:7px;
 }
 .login-modal-wrapper{
   display:none;
