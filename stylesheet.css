@@ -92,15 +92,11 @@ color:white;
   }
 }
 
-#select-form{
+choose #select-form{
 float:left;
 }
-.blogbtn{
+choose .blogbtn{
 float:right;
-rigth:100px;  
-}
-a{
-clear: both;
 }
   
   
