@@ -97,9 +97,10 @@ float:left;
 }
 .blogbtn{
 float:right;
-position:relative;
 rigth:100px;  
 }
-  
+a{
+clear: both;
+}
   
   
