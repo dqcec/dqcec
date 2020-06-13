@@ -1,5 +1,3 @@
-script.js
-
 $(function(){
   
   $('#topPage').click(function(){
