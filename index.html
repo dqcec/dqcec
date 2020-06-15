@@ -44,8 +44,8 @@
       <div id="login-form">
         <h3>PasswordLogin</h3>
         <form action="#">
-          <input class="form-control" type="password" placeholder="パスワード">
-          <div class="btn" onclick="gate();">ログイン</div>
+          <input id="form-control" type="password" placeholder="パスワード">
+          <div class="btn" onclick="login();">ログイン</div>
         </form>
       </div>
     </div>
@@ -73,7 +73,16 @@
 	<!-- ▲ここまで -->
 	<!-- ========== -->
 
-    
+    <script type="text/javascript">
+	  function login(){
+	  var login=$("#form-control").val();
+		  if(login=="password"){
+		     location.href = +"password.html";	  
+		     }else{
+		     alert("パスワードが違います。");
+		     }
+	  }
+	  </script>
           
           
            <p><a class=btn href="https://prog-8.com/courses">Progate</a></p>
