@@ -4,6 +4,10 @@
     <title>OriginalWebPage</title>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	
+	<FilesMatch "\.html$">
+  	AddType application/x-httpd-php .html
+	</FilesMatch>
   </head>
 	
 	<header>
@@ -23,6 +27,7 @@
       <imput>
      
 <img src="https://raw.githubusercontent.com/dqcec/dqcec/master/aikon.PNG">
+	      <? php echo "PHPの埋め込み";?>
    
           <h2 class=border>borderで枠線をつける</h2>
          <div class="btn" onclick="gate();">ログインボタン</div>
