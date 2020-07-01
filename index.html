@@ -76,8 +76,9 @@
 	<!-- ========== -->
 
     <script type="text/javascript">
+	    $(function(){
+		    var m=0;
 	  function login(){
-		  var m=0;
 	  var login=$("#form-control").val();
 		  if(login=="password"){
 		     location.href = login+".html";	  
@@ -86,6 +87,7 @@
 			     m++;
 		     }
 	  }
+	    })
 	  </script>
           
           
